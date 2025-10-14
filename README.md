@@ -1,5 +1,5 @@
 # snapbot
-snapchat streak automation
+selenium script that automatically sends snap streaks using snapchat.com/web and snapchat shorcuts
 
 ** INFO **
 this script is written with brave browser in mind.
