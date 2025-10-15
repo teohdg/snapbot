@@ -1,6 +1,6 @@
 # snapbot
 selenium script that automatically sends snap streaks using snapchat.com/web and snapchat shorcuts.
-made for digital minimalist who still have friends from high school 💔
+made for digital minimalists who still have friends from high school 💔
 
 ** INFO **
 this script is written with brave browser in mind.
